@@ -26,6 +26,7 @@ display: flex;
 flex-direction: row;
 justify-content: center;
 }
+
 .about-title {
 margin-left: 40px;
 margin-right: 40px;
@@ -92,4 +93,13 @@ padding: 4px;
 text: justify;
 }
 
+.contact {
+font-family: 'Alegreya Sans SC';
+font-size: 20px;
+}
 
+.contacts {
+font-family: 'Alegreya';`
+font-size: 16px;
+list-style-type: none;
+}
